@@ -1,183 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5a0&height=220&section=header&text=Krishna%20Koshti&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Event%20Operator&descAlignY=58&descSize=18" width="100%" alt="Krishna Koshti banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=090b0a&height=200&section=header&text=K.&fontSize=110&fontColor=c5f467&animation=fadeIn&fontAlignY=50&desc=TURNING%20CURIOSITY%20INTO%20CREATION&descAlignY=80&descSize=16" width="100%" alt="K. - Turning curiosity into creation"/>
 
-### `> hello_world.exe` &nbsp;👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=620&lines=Building+things+with+HTML%2C+CSS+%26+JavaScript;Zero+frameworks.+Zero+build+step.+100%25+handcrafted.;Press+Ctrl+%2B+K+to+navigate+like+a+hacker." alt="Typing animation" />
+<a href="https://github.com/KrishnaError/krishna-portfolio">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&pause=900&color=C5F467&center=true&vCenter=true&width=640&lines=%3E_+Web+developer+in+progress;%3E_+Python+%26+data+enthusiast;%3E_+Curious+about+AI+and+IoT;%3E_+Learning+by+building." alt="Typing roles" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Portfolio-00f5a0?style=for-the-badge&labelColor=0f2027)](https://krishnaerror.github.io/krishna-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-KrishnaError-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaError)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_LEARNING_%26_OPPORTUNITIES-c5f467?style=for-the-badge&labelColor=090b0a)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dependencies](https://img.shields.io/badge/dependencies-0-00f5a0?style=flat-square)
-![Build Step](https://img.shields.io/badge/build_step-none-ff4d6d?style=flat-square)
-![Made with](https://img.shields.io/badge/made_with-☕_%2B_curiosity-8a5cf6?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-090b0a?style=flat-square&logo=html5&logoColor=c5f467)
+![CSS](https://img.shields.io/badge/CSS3-090b0a?style=flat-square&logo=css3&logoColor=c5f467)
+![JS](https://img.shields.io/badge/Vanilla_JS-090b0a?style=flat-square&logo=javascript&logoColor=c5f467)
+![Frameworks](https://img.shields.io/badge/frameworks-0-090b0a?style=flat-square&labelColor=1a1f1a&color=c5f467)
+![Dependencies](https://img.shields.io/badge/dependencies-0-090b0a?style=flat-square&labelColor=1a1f1a&color=c5f467)
 
 </div>
 
 ---
 
-## 🧬 What is this?
+## `01 / THE PERSON`
 
-This is not just a portfolio. It is a **single-page, framework-free experience** engineered from scratch with plain **HTML, CSS and vanilla JavaScript**: no React, no npm, no bundler. Just clean code that opens in a browser and works.
+**Krishna Koshti** is a B.Tech Computer Science & Engineering student from **Ahmedabad, India**. He completed a Diploma in Computer Engineering first, and now builds for the web, explores data, AI and IoT, and runs on-ground operations at live events.
 
-> *"Anyone can import a framework. Building it by hand is how you learn what the framework does."*
+This repository is his portfolio, built to prove one point: **you don't need a framework to build something that feels alive.** Three files. No `npm install`. No build step. Open `index.html` and it runs.
 
 ```text
-   ┌──────────────────────────────────────────────┐
-   │  index.html  ──►  structure & content        │
-   │  style.css   ──►  design, themes, animation  │
-   │  script.js   ──►  interactivity & logic      │
-   │                                              │
-   │  Total dependencies:  0                      │
-   │  Build commands:      0                      │
-   │  Just open it. It works.                     │
-   └──────────────────────────────────────────────┘
+ THE FOUNDATION        THE NEXT CHAPTER           WHAT'S NEXT
+ Diploma in      ───►  B.Tech · CSE         ───►  Build, contribute
+ Computer Eng.         (in progress)              & grow
+ [ COMPLETED ]         [ IN PROGRESS ]            [ UP NEXT ]
 ```
 
 ---
 
-## ⚡ Feature Arsenal
+## `02 / THE EXPERIENCE`
 
-| | Feature | What it does |
-|---|---|---|
-| 🌗 | **Dark / Light Theme** | One-click toggle, preference remembered between visits |
-| ⌨️ | **Command Palette** | Press `Ctrl + K`, `Cmd + K` or `/` to jump anywhere instantly |
-| ✍️ | **Typewriter Roles** | Hero text types and erases my roles in real time |
-| 🎯 | **Filterable Skills** | Click a category and the skill cards reorganise live |
-| 📈 | **Scroll Progress Bar** | Shows exactly how far through the page you are |
-| ✨ | **Reveal-on-Scroll** | Sections glide in as you reach them |
-| 🧭 | **Active Nav Tracking** | The menu highlights the section you are reading |
-| 📱 | **Fully Responsive** | Built for phones, tablets and desktops |
-| 📋 | **Contact Helper** | Prepares a message and copies it to your clipboard |
+A command palette, a live theme switch and a hand-rolled typewriter, all in plain JavaScript.
 
----
+| Press | What happens |
+|:---:|---|
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> / <kbd>⌘</kbd> + <kbd>K</kbd> / <kbd>/</kbd> | Opens the **quick-nav palette** and filters as you type |
+| <kbd>↑</kbd> <kbd>↓</kbd> <kbd>Enter</kbd> | Move through commands and jump to a section |
+| <kbd>Esc</kbd> | Closes the palette |
+| ☼ / ☾ | Flips **dark and light themes** (the choice is remembered) |
 
-## 🗺️ Site Map
+**What's under the hood:**
 
-```mermaid
-flowchart LR
-    A([🏠 Hero]) --> B([👤 About])
-    B --> C([🎓 Education Journey])
-    C --> D([🛠️ Skills])
-    D --> E([🚀 Projects])
-    E --> F([🎪 Event Operations])
-    F --> G([📬 Contact])
-    style A fill:#00f5a0,color:#0f2027,stroke:none
-    style G fill:#8a5cf6,color:#fff,stroke:none
-```
-
-<details>
-<summary><b>📂 Click to expand: what's inside each section</b></summary>
-
-<br/>
-
-- **Hero:** animated intro and profile card
-- **About & Education:** my story and learning journey
-- **Skills:** filterable cards across technologies
-- **Projects:** academic work, concepts and mini-projects
-- **Event Operations:** real-world, on-the-ground experience managing events
-- **Contact:** reach me and find me on GitHub
-
-</details>
+- ⌨️ **Typewriter hero** that cycles through four roles, and respects `prefers-reduced-motion`
+- 🧩 **14 skills rendered from one JS data array**, filterable by *Web · Programming · Data & AI · Tools & IoT* with staggered animations
+- 📈 **Scroll-progress bar** that tracks your position on the page
+- 🎬 **`IntersectionObserver`** drives the reveal-on-scroll effects *and* the active-nav highlighting
+- 📋 **Honest contact helper:** it copies your message to the clipboard instead of faking a "sent" form
+- 📱 **Responsive mobile menu** with proper `aria-expanded` and `aria-label` states
+- 🛡️ **Safe DOM building:** skill cards and commands are made with `textContent`, never raw `innerHTML` strings
 
 ---
 
-## 🎮 Try These
+## `03 / THE TOOLKIT`
 
-1. Hit **`Ctrl + K`** and start typing a section name.
-2. Flip the **theme toggle** and refresh the page. Your choice stays.
-3. Click different **skill filters** and watch the cards react.
-4. Scroll slowly and watch the **progress bar** and **reveal effects**.
+| Web | Programming | Data & AI | Tools & IoT |
+|:---|:---|:---|:---|
+| HTML | Python | Pandas | Git & GitHub |
+| CSS | Java | NumPy | Arduino |
+| JavaScript | SQL | Matplotlib | IoT / MQTT |
+| Django | | ML fundamentals | |
+
+> Skill levels aren't ranked. This is a learning toolkit, and it keeps growing.
 
 ---
 
-## 🚀 Run It in 10 Seconds
+## `04 / SELECTED WORK`
+
+| # | Project | What it is | Built with | Status |
+|:-:|---|---|---|:-:|
+| 01 | **AMTS Smart Connect** | A public-transport UX concept based on empathy, journey and affinity mapping of commuter pain points | UX research | Academic |
+| 02 | **Python Game Project** | A game built on core logic, user input and win/lose outcomes, with documentation | Python | Academic |
+| 03 | **E-commerce Data Dashboard** | Sales data organised into visual insights across products, brands and categories | Python · Pandas · Matplotlib | Concept |
+| 04 | **Habit Tracker** | Daily check-ins with streaks and a visual calendar | HTML · CSS · JS | Concept |
+| 05 | **IoT Visitor Counter** | Counts people entering or leaving a space using IR sensors | Arduino UNO · IR sensors | Concept |
+
+*Concept and academic entries are labelled as exactly that, with no inflated claims.*
+
+---
+
+## `05 / BEYOND THE SCREEN`
+
+Technology is half the story. The other half is **people, pressure and problem-solving**.
+
+- 🏏 **IPL Final, Event Operations (2026):** ticket verification, spectator entry support and crowd coordination in a live, fast-paced environment
+- 📣 **Promoter & Volunteer:** event promotion, public interaction and attendee communication
+- 🎮 **Gaming Events & Operations:** attendee support, coordination and on-ground problem-solving
+
+`Communication` · `Team coordination` · `Guest management` · `Adaptability` · `Problem-solving`
+
+---
+
+## `06 / DESIGN SYSTEM`
+
+Dark-first, with a single sharp accent colour. Every colour is a CSS variable, so switching theme just swaps the token values.
+
+| Token | Dark | Light |
+|---|:---:|:---:|
+| Background | ![](https://img.shields.io/badge/-%20%20%20-090b0a?style=flat-square) `#090b0a` | ![](https://img.shields.io/badge/-%20%20%20-f3f5ef?style=flat-square) `#f3f5ef` |
+| Surface | ![](https://img.shields.io/badge/-%20%20%20-101411?style=flat-square) `#101411` | ![](https://img.shields.io/badge/-%20%20%20-ffffff?style=flat-square) `#ffffff` |
+| Accent | ![](https://img.shields.io/badge/-%20%20%20-c5f467?style=flat-square) `#c5f467` | ![](https://img.shields.io/badge/-%20%20%20-638f28?style=flat-square) `#638f28` |
+
+**Typography:** `Manrope` for text · `DM Mono` for the terminal touches
+
+---
+
+## `07 / RUN IT`
 
 ```bash
-# 1. Clone
 git clone https://github.com/KrishnaError/krishna-portfolio.git
-
-# 2. Enter
 cd krishna-portfolio
-
-# 3. Open index.html in your browser. That's it. No npm install.
+# open index.html in any browser. That's the whole setup.
 ```
 
-Or use the **Live Server** extension in VS Code for instant reloads.
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-| Layer | Tech |
-|:---:|:---:|
-| **Markup** | HTML5 (semantic) |
-| **Styling** | CSS3 (variables, grid, flexbox, animations) |
-| **Logic** | Vanilla JavaScript (ES6+) |
-| **Typography** | Google Fonts |
-| **Hosting** | GitHub Pages |
-
-</div>
-
----
-
-## 🧠 What I Learned Building This
-
-- Structuring a multi-section site without any framework
-- Theme systems using **CSS custom properties** and `localStorage`
-- Smooth UX with `IntersectionObserver`-style reveal and scroll logic
-- Keyboard-first navigation and accessibility basics
-- Writing responsive layouts that don't break on small screens
-
----
-
-## 📁 Project Structure
+Prefer live reload? Use the **Live Server** extension in VS Code.
 
 ```text
 krishna-portfolio/
-├── index.html    # Page structure & content
-├── style.css     # Design system, themes, animations
-├── script.js     # Interactivity & features
-└── README.md     # You are here 📍
+├── index.html   # structure & content
+├── style.css    # design tokens, themes, animation
+├── script.js    # theme, palette, skills, observers
+└── README.md
 ```
 
----
-
-## 🌐 Deploy Your Own
-
-1. Fork this repo
-2. Go to **Settings → Pages**
-3. Set source to **main branch / root**
-4. Your site goes live at `https://<your-username>.github.io/krishna-portfolio/`
+**Deploy:** Settings → Pages → Source: `main` / root → live at `https://krishnaerror.github.io/krishna-portfolio/`
 
 ---
 
-## 📬 Let's Connect
+## `08 / SAY HELLO`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow_me_on_GitHub-KrishnaError-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaError)
+[![GitHub](https://img.shields.io/badge/GITHUB-@KrishnaError-090b0a?style=for-the-badge&logo=github&logoColor=c5f467)](https://github.com/KrishnaError)
 
-**If this project impressed you, drop a ⭐. It keeps me building.**
+📍 Ahmedabad, Gujarat, India
+
+*No big speech. Just say hello.*
 
 <br/>
 
-```text
- ┌────────────────────────────────────────────┐
- │   while (alive) { learn(); build(); ship(); }  │
- └────────────────────────────────────────────┘
-```
+⭐ **If you liked the build, star the repo.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=090b0a&height=90&section=footer&text=BUILD%20%E2%9C%B3%20LEARN%20%E2%9C%B3%20EXPERIMENT%20%E2%9C%B3%20COLLABORATE&fontSize=16&fontColor=c5f467&fontAlignY=55" width="100%" alt="Build, Learn, Experiment, Collaborate"/>
 
 </div>
